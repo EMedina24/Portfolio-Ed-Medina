@@ -6,11 +6,11 @@ const database = {
     fullName:'Edgardo Medina',
     aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
     age: 26,
-    phone: '',
+    phone: '719-232-7364',
     nationality: 'American',
     language: 'English, Spanish',
     email: 'Edgardojosemedina2@gmail.com',
-    address: '',
+    address: '8801 Hunters Lake Dr. Tampa,FL 33647',
     freelanceStatus: 'Available',
     socialLinks: {
       facebook: 'https://www.instagram.com/edgardo_medina007/',
