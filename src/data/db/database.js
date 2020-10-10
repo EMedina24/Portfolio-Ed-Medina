@@ -314,9 +314,9 @@ const database = {
     }
   ],
   contactInfo: {
-    phoneNumbers: ['+012-3456-7891', '+012-3456-7892'],
-    emailAddress: ['admin.sitename@example.com', 'info.sitename@example.com'],
-    address: "121 King Street, Melbourne, Victoria 3000, Australia"
+    phoneNumbers: ['719-232-7364'],
+    emailAddress: ['edgardojosemedina2@gmail.com'],
+    address: "8801 Hunters Lake Dr Tampa,FL"
   }
 }
 
