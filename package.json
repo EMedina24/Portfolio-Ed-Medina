@@ -1,5 +1,4 @@
 {
-  "homepage": "http://emedina24.github.io/Portfolio-Ed-Medina",
   "name": "emedina24",
   "version": "2.1.0",
   "dependencies": {
@@ -24,8 +23,6 @@
     "slick-carousel": "^1.8.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -43,7 +40,5 @@
       "last 5 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "devDependencies": {}
 }
