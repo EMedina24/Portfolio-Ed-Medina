@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Ed-Medina/static/css/main.04c8234a.chunk.css",
+    "main.js": "/Portfolio-Ed-Medina/static/js/main.3c98a7da.chunk.js",
+    "main.js.map": "/Portfolio-Ed-Medina/static/js/main.3c98a7da.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Ed-Medina/static/js/runtime-main.b7edad71.js",
+    "runtime-main.js.map": "/Portfolio-Ed-Medina/static/js/runtime-main.b7edad71.js.map",
+    "static/css/2.9df4d845.chunk.css": "/Portfolio-Ed-Medina/static/css/2.9df4d845.chunk.css",
+    "static/js/2.bff098fc.chunk.js": "/Portfolio-Ed-Medina/static/js/2.bff098fc.chunk.js",
+    "static/js/2.bff098fc.chunk.js.map": "/Portfolio-Ed-Medina/static/js/2.bff098fc.chunk.js.map",
+    "index.html": "/Portfolio-Ed-Medina/index.html",
+    "precache-manifest.54a0955b22d7e3226e016f47e7ce89da.js": "/Portfolio-Ed-Medina/precache-manifest.54a0955b22d7e3226e016f47e7ce89da.js",
+    "service-worker.js": "/Portfolio-Ed-Medina/service-worker.js",
+    "static/css/2.9df4d845.chunk.css.map": "/Portfolio-Ed-Medina/static/css/2.9df4d845.chunk.css.map",
+    "static/css/main.04c8234a.chunk.css.map": "/Portfolio-Ed-Medina/static/css/main.04c8234a.chunk.css.map",
+    "static/js/2.bff098fc.chunk.js.LICENSE.txt": "/Portfolio-Ed-Medina/static/js/2.bff098fc.chunk.js.LICENSE.txt",
+    "static/media/boost-your-post-for-increasing-sales.md": "/Portfolio-Ed-Medina/static/media/boost-your-post-for-increasing-sales.7c33af2f.md",
+    "static/media/difference-between-gatsbyjs-and-nextjs.md": "/Portfolio-Ed-Medina/static/media/difference-between-gatsbyjs-and-nextjs.9f553f26.md",
+    "static/media/future-of-javascript.md": "/Portfolio-Ed-Medina/static/media/future-of-javascript.8cc16894.md",
+    "static/media/how-to-choose-javascript-framework-for-project.md": "/Portfolio-Ed-Medina/static/media/how-to-choose-javascript-framework-for-project.94fbd384.md",
+    "static/media/how-to-get-10k-instagram-followers.md": "/Portfolio-Ed-Medina/static/media/how-to-get-10k-instagram-followers.6566a292.md",
+    "static/media/installing-nodejs-on-your-device.md": "/Portfolio-Ed-Medina/static/media/installing-nodejs-on-your-device.368cc11c.md",
+    "static/media/markdown-html-supported-blog.md": "/Portfolio-Ed-Medina/static/media/markdown-html-supported-blog.c7fe48e6.md",
+    "static/media/popular-javascript-library-in-2020.md": "/Portfolio-Ed-Medina/static/media/popular-javascript-library-in-2020.d4881e73.md",
+    "static/media/programmers-must-read-books.md": "/Portfolio-Ed-Medina/static/media/programmers-must-read-books.d490be27.md",
+    "static/media/slick-theme.css": "/Portfolio-Ed-Medina/static/media/slick.f97e3bbf.svg",
+    "static/media/think-out-of-the-box.md": "/Portfolio-Ed-Medina/static/media/think-out-of-the-box.c0c0a9c9.md",
+    "static/media/time-to-use-latest-technology-for-creating-a-website.md": "/Portfolio-Ed-Medina/static/media/time-to-use-latest-technology-for-creating-a-website.ea70d882.md",
+    "static/media/trending-designs-in-2020.md": "/Portfolio-Ed-Medina/static/media/trending-designs-in-2020.8e1efcf2.md",
+    "static/media/uiux-design-starter-with-adobe-xd.md": "/Portfolio-Ed-Medina/static/media/uiux-design-starter-with-adobe-xd.c7973cd5.md",
+    "static/media/web-automation-with-python-language.md": "/Portfolio-Ed-Medina/static/media/web-automation-with-python-language.a1c7c37f.md",
+    "static/media/what-nodejs-can-do.md": "/Portfolio-Ed-Medina/static/media/what-nodejs-can-do.40686a4e.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7edad71.js",
+    "static/css/2.9df4d845.chunk.css",
+    "static/js/2.bff098fc.chunk.js",
+    "static/css/main.04c8234a.chunk.css",
+    "static/js/main.3c98a7da.chunk.js"
+  ]
+}
