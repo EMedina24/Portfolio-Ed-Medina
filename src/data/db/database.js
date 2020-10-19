@@ -4,7 +4,7 @@ const database = {
   information: {
     name: 'Ed Medina',
     fullName:'Edgardo Medina',
-    aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    aboutContent: "I am a frontend web developer.",
     age: 26,
     phone: '719-232-7364',
     nationality: 'American',
