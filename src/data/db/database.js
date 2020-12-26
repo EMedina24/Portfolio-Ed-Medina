@@ -169,7 +169,7 @@ const database = {
       {
         id: 2,
         year: "2018 - 2020",
-        graduation: "Bachelor of Science in Computer Science ",
+        details: "Bachelor of Science in Computer Science ",
         university: "Purdue University",
         
       },
