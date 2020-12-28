@@ -105,7 +105,7 @@ function About() {
                   )}
                 </ul>
                 <a href={information.cvfile} className="mi-button">
-                  Download CV
+                  Download Resume
                 </a>
               </div>
             </div>
