@@ -98,6 +98,14 @@ const database = {
   portfolios: [
     {
       id: 1,
+      title: "Echelonfit.com",
+      subtitle: "Multi-Language /Region site Developed shopify. transitioned to Gatsby",
+      imageUrl: "/images/portfolio-image-1.jpg",
+      largeImageUrl: ["/images/portfolio-image-1-lg.jpg"],
+      url: 'https://ironman.com'
+    },
+    {
+      id: 2,
       title: "IRONMAN.COM",
       subtitle: "Multi-Language /Region site Developed on a Ruby on Rails CMS",
       imageUrl: "/images/portfolio-image-1.jpg",
@@ -105,7 +113,7 @@ const database = {
       url: 'https://ironman.com'
     },
     {
-      id: 2,
+      id: 3,
       title: "Run Rock N' Roll",
       subtitle: "Awesome marathon site built using SiteCore 9 CMS.",
       imageUrl: "/images/portfolio-image-4.jpg",
@@ -116,14 +124,14 @@ const database = {
       url: 'https://www.runrocknroll.com/'
     },
     {
-      id: 3,
+      id: 4,
       title: "Club Finder App",
       subtitle: "React Admin Application that searches and manages triathlete clubs",
       imageUrl: "/images/portfolio-image-2.jpg",
       url: 'https://preview.competitor.com/clubs/sport/tri?displayedFilters=%7B%22main%22%3Atrue%7D&filter=%7B%7D&order=ASC&page=1&perPage=10&sort=id'
     },
     {
-      id: 4,
+      id: 5,
       title: "Register form",
       subtitle: "A React Register form.",
       imageUrl: "/images/portfolio-image-3.jpg",
@@ -131,7 +139,7 @@ const database = {
       url: 'https://preview.competitor.com/club/create'
     },
     {
-      id: 5,
+      id: 6,
       title: "Fintech",
       subtitle: "Fintech Wordpress site created during my time at Sparxoo",
       imageUrl: "/images/portfolio-image-5.jpg",
@@ -142,15 +150,24 @@ const database = {
   ],
   experience: {
     workingExperience: [
+
+
       {
         id: 1,
-        year: "2019 - Present",
+        year: "2021 - Present",
+        position: "Web Developer",
+        company: "Echelon Fitness",
+        details: "Web Developer for Echelonfit.com"
+      },
+      {
+        id: 2,
+        year: "2020 - 2021",
         position: "Global Lead Developer",
         company: "IRONMAN - World Triathlon Corp.",
         details: "Lead Developer for IRONMAN.COM and RunRocknRoll.com. Much of the sites functionality made using custom react components."
       },
       {
-        id: 2,
+        id: 3,
         year: "2018 - 2019",
         position: "PHP Web Developer",
         company: "Sparxoo",
@@ -166,13 +183,7 @@ const database = {
         university: "Lambda",
         details: "Full-stack Web Development course provided by Lambda School"
       },
-      {
-        id: 2,
-        year: "2018 - 2020",
-        details: "Bachelor of Science in Computer Science ",
-        university: "Purdue University",
-        
-      },
+     
       
     ]
   },
